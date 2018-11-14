@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "image": "./images/angular.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./images/bootstrap.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./images/cplus.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./images/css.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./images/dotNET.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./images/html.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./images/java.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./images/javascript.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./images/jQuery.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./images/mySQL.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./images/node.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./images/php.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "./images/python.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "./images/react.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "./images/ruby.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "./public/images/VCS.png",
+    "clicked": false
+  }
+]
+
